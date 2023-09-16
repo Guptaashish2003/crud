@@ -1,0 +1,40 @@
+
+
+
+nav{
+    all: unset;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(250, 197, 97);
+    height: 150px;
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 29px;
+}
+.heading{
+    font-weight: 500;
+    font-size: 40px;
+    font-family: 'Borel', cursive;
+
+}
+.button{
+    all: unset;
+    position: relative;
+    bottom: 50px;
+    border-radius: 4px;
+    border: #ec8e14;
+    width: 79%;
+    left: 3vw;
+    width: 73%;
+    cursor: pointer;
+    border-style: ridge;
+    border-color: rgb(255, 153, 0);
+ 
+    
+}
+.button:hover{
+    background:#fffc82;
+    color: #ff0000;
+}
